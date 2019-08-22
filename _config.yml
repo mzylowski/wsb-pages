@@ -22,8 +22,9 @@ description: Kilka informacji o przedmiotach prowadzonych na WSB
 navbar-links:
   Główna: "https://wsb.zylowski.net"
   Przedmioty:
-    - Przedmiot pierwszy: "subject1"
-    - Przedmiot drugi: "subject2"
+    - SKBiW: "skbiw"
+    - Język Python: "jezykPython"
+    - TAwŚZ: "tawsz"
   Co to jest laboratorium: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
