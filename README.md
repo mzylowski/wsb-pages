@@ -1,4 +1,4 @@
-# Mzylowsk WSB github pages
+# MZylowsk WSB github pages
 ## Bases on Beautiful Jekyll template
 
 ### Table of contents
