@@ -1,0 +1,22 @@
+dist: xenial
+matrix:
+  include:
+  - language: go
+    sudo: required
+    go: 1.12.5
+    before_script:
+    - go get -u github.com/vbatts/git-validation
+    script:
+    - git-validation -q -run DCO,short-subject -range 63d4da497195576fe54147f06f0536907412179e..HEAD
+  - language: bash
+    before_install:
+      - sudo apt-get install -y hunspell
+    addons:
+      apt:
+        update: true
+    sudo: required
+    script:
+    - wget https://s3.zylowski.net/public/pl.aff
+    - wget https://s3.zylowski.net/public/pl.dic
+    - find . -name '*.md' | xargs hunspell -d pl -p .wordslist -l faq.md >> results.txt
+    - if [ -s results.txt ]; then echo "List of mistakes:"; cat results.txt; return 1; else echo "Spellcheck ... PASS" return 0; fi
