@@ -9,7 +9,7 @@ subtitle: Cobyśmy się dobrze rozumieli.
 ### Zasady
 1. Obecność na laboratoriach jest obowiązkowa i jest punktowana.
 
-2. Na zajęcia laboratoryjne przychodzimy przygotowani (wiedza z wykładu, zadanej wczesniej literatury, poprzednie laborki etc).
+2. Na zajęcia laboratoryjne przychodzimy przygotowani (wiedza z wykładu, zadanej wcześniej literatury, poprzednie laborki etc).
 
 3. Zajęcia polegają na wykonywaniu zadań/instrukcji laboratoryjnej. Celem zajęć jest praktyczna weryfikacja wiedzy zdobytej przez studenta.
 
@@ -38,10 +38,10 @@ subtitle: Cobyśmy się dobrze rozumieli.
 - prowadzący ma zapchaną skrzynkę i maile nie dochodzą
 - ten ^@%$^@# nie odpisuje na maile
 
-8. Prosze nie grać w gry na laborkach, które prowadzę. Chyba, że jest się ode mnie lepszym w Q3 Arena i chce się zaryzykować swoje punkty z przedmiotu w pojedynku na mapie `q3dm17`.
+8. Proszę nie grać w gry na laborkach, które prowadzę. Chyba, że jest się ode mnie lepszym w Quake 3 Arena i chce się zaryzykować swoje punkty z przedmiotu w pojedynku na mapie `q3dm17`.
 
 ### Ale, ale jak to
-Przecież na WSB są poprawki laborek w sesi.
+Przecież na WSB są poprawki laborek w sesji.
 
 Tak są. Na każdym terminie poprawkowym można poprawiać dokładnie jedno zadanie. Oznacza to, że nie chodząc cały semestr i tak nie starczy punktów po pierwszej poprawce. Te terminy są dla osób, które wykazywały jakieś chęci w trakcie semestru.
 
