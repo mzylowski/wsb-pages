@@ -19,26 +19,26 @@ subtitle: Cobyśmy się dobrze rozumieli.
 ### Gorzkie żale
 1. Laboratoria to nie ćwiczenia. Podejście do mnie i zadanie pytania "jak mogę zaliczyć te ćwiczenia" powoduje odesłanie studenta do tej strony.
 
-2. Laborka to nie wykład. Jest na nich miejsce na wytłumaczenie i omówienie zagadnień, ale jest to mały % zajęć, który nigdy nie jest punktowany.
+2. Laborka to nie wykład. Jest w ich trakcie czas na wytłumaczenie i omówienie zagadnień, ale jest to mały % zajęć, który nigdy nie jest punktowany.
 
-3.
+3. Nie oddajemy kodu, którego nie rozumiemy.
 
-```
-- Nie chodziłem cały semestr. Czy mogę zaliczyć?
-- Nie.
-```
+4. Nie oddajemy kodu kolegi/koleżanki.
 
-4. Nie oddajemy kodu, którego nie rozumiemy.
+5. Nie oddajemy kodu, którego sami nie napisaliśmy.
 
-5. Nie oddajemy kodu kolegi/koleżanki.
-
-6. Nie oddajemy kodu, którego sami nie napisaliśmy.
-
-7. Nie piszemy maila do prowadzącego na błędny mail prowadzącego, a potem biadolimy na pół WSB, że:
+6. Nie piszemy maila do prowadzącego na błędny mail prowadzącego, a potem biadolimy na pół WSB, że:
 - prowadzący ma zapchaną skrzynkę i maile nie dochodzą
-- ten ^@%$^@# nie odpisuje na maile
+- ten typ nie odpisuje na maile
 
-8. Proszę nie grać w gry na laborkach, które prowadzę. Chyba, że jest się ode mnie lepszym w Quake 3 Arena i chce się zaryzykować swoje punkty z przedmiotu w pojedynku na mapie `q3dm17`.
+7. Proszę nie grać w gry na laborkach, które prowadzę. Chyba, że jest się ode mnie lepszym w Quake 3 Arena i chce się zaryzykować swoje punkty z przedmiotu w pojedynku na mapie `q3dm17`.
+
+8. No nie. No po prostu...
+
+{: .box-note}
+Nie chodziłem cały semestr. Czy mogę zaliczyć?
+
+Nie.
 
 ### Ale, ale jak to
 Przecież na WSB są poprawki laborek w sesji.
@@ -48,4 +48,6 @@ Tak są. Na każdym terminie poprawkowym można poprawiać dokładnie jedno zada
 
 #### Literatura i przydatne linki
 [Definicja w serwisie studia.pl](https://studia.pl/slowniczek/4817-laboratorium)
+
 [Definicja na wiki](https://pl.wikipedia.org/wiki/Laboratorium_(zesp%C3%B3%C5%82_muzyczny))
+
