@@ -35,10 +35,10 @@ subtitle: Cobyśmy się dobrze rozumieli.
 
 8. No nie. No po prostu...
 
-{: .box-note}
-Nie chodziłem cały semestr. Czy mogę zaliczyć?
-
-Nie.
+```
+- Nie chodziłem cały semestr. Czy mogę zaliczyć?
+- Nie.
+```
 
 ### Ale, ale jak to
 Przecież na WSB są poprawki laborek w sesji.
