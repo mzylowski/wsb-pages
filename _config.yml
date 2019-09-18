@@ -21,10 +21,10 @@ description: Kilka informacji o przedmiotach prowadzonych na WSB
 # List of links in the navigation bar
 navbar-links:
   Główna: "https://wsb.zylowski.net"
-  Przedmioty:
-    - SKBiW: "skbiw"
-    - Język Python: "jezykPython"
-    - TAwŚZ: "tawsz"
+  #Przedmioty:
+  #  - SKBiW: "skbiw"
+  #  - Język Python: "jezykPython"
+  #  - TAwŚZ: "tawsz"
   FAQ: "faq"
   Co to jest laboratorium: "laborki"
 
