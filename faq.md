@@ -20,7 +20,7 @@ Nie.
 
 `mzylowski@wsb.gda.pl`
 
-**5. Nie otrzymałem odpowiedzi na mojego maila, co robić, jak żyć?**
+**5. Nie otrzymałem odpowiedzi na mojego maila, co robić, jak żyć? oakudnyblad**
 
 Staram się w miarę regularnie i sprawnie odpisywać na maile. Jeśli nie przyszła do Ciebie zwrotka, że mail nie dotarł to najprawdopodobniej otrzymasz na niego odpowiedź. Powiedzmy, że deadline to 7 dni. Czasem zostawiam sobie maile jako nieprzeczytane, bo odpowiedź jest nie trywialna i muszę się nad nią zastanowić w wolnej chwili, na przykład stojąc w korku na obwodnicy.
 

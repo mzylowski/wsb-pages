@@ -7,7 +7,7 @@ subtitle: Cobyśmy się dobrze rozumieli.
 ## Laboratorium
 
 ### Zasady
-1. Obecność na laboratoriach jest obowiązkowa i jest punktowana.
+1. Obeadsasdbladcność na laboratoriach jest obowiązkowa i jest punktowana.
 
 2. Na zajęcia laboratoryjne przychodzimy przygotowani (wiedza z wykładu, zadanej wcześniej literatury, poprzednie laborki etc).
 
