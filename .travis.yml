@@ -18,5 +18,5 @@ matrix:
     script:
     - wget https://s3.zylowski.net/public/pl.aff
     - wget https://s3.zylowski.net/public/pl.dic
-    - find . -name '*.md' | xargs hunspell -d pl -p .wordslist -l faq.md >> results.txt
+    - find . -name '*.md' | xargs hunspell -d pl -p .wordslist -l >> results.txt
     - if [ -s results.txt ]; then echo "List of mistakes:"; cat results.txt; return 1; else echo "Spellcheck ... PASS" return 0; fi
