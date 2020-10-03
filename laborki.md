@@ -31,7 +31,7 @@ subtitle: Cobyśmy się dobrze rozumieli.
 - prowadzący ma zapchaną skrzynkę i maile nie dochodzą
 - ten typ nie odpisuje na maile
 
-7. Proszę nie grać w gry na laborkach, które prowadzę. Chyba, że jest się ode mnie lepszym w Quake 3 Arena i chce się zaryzykować swoje punkty z przedmiotu w pojedynku na mapie `q3dm17`.
+7. Proszę nie grać w gry na laborkach, które prowadzę. Chyba, że jest się ode mnie lepszym w Szachy i chce się zaryzykować swoje punkty z przedmiotu w pojedynku.
 
 8. No nie. No po prostu...
 
@@ -44,10 +44,3 @@ subtitle: Cobyśmy się dobrze rozumieli.
 Przecież na WSB są poprawki laborek w sesji.
 
 Tak są. Na każdym terminie poprawkowym można poprawiać dokładnie jedno zadanie. Oznacza to, że nie chodząc cały semestr i tak nie starczy punktów po pierwszej poprawce. Te terminy są dla osób, które wykazywały jakieś chęci w trakcie semestru.
-
-
-#### Literatura i przydatne linki
-[Definicja w serwisie studia.pl](https://studia.pl/slowniczek/4817-laboratorium)
-
-[Definicja na wiki](https://pl.wikipedia.org/wiki/Laboratorium_(zesp%C3%B3%C5%82_muzyczny))
-
